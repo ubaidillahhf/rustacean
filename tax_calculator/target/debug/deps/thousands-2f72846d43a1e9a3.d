@@ -1,0 +1,10 @@
+/Users/ubaidillah/Documents/Rustacean/tax_calculator/target/debug/deps/thousands-2f72846d43a1e9a3.d: /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/lib.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/digits.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/policies.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/traits.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/display.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/helpers.rs
+
+/Users/ubaidillah/Documents/Rustacean/tax_calculator/target/debug/deps/libthousands-2f72846d43a1e9a3.rmeta: /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/lib.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/digits.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/policies.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/traits.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/display.rs /Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/helpers.rs
+
+/Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/lib.rs:
+/Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/digits.rs:
+/Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/policies.rs:
+/Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/traits.rs:
+/Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/display.rs:
+/Users/ubaidillah/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thousands-0.2.0/src/helpers.rs:
